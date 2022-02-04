@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suresrkumar
+- 👋 Hi, I’m Sureshkumar Ramasamy
 - 👀 I’m interested in Machine Learning & Deep Learing
 - 🌱 I’m currently learning Azure DevOps, CI/CD Piepline
 - 💞️ I’m looking to collaborate on ML using Python, NLP, Azure ML SDK
